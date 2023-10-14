@@ -7,12 +7,13 @@ module.exports = {
   theme: 'vdoing', // 使用依赖包主题
   // theme: require.resolve('../../vdoing'), // 使用本地主题 (先将vdoing主题文件下载到本地：https://github.com/xugaoyi/vuepress-theme-vdoing)
 
-  title: "静持大师",
-  description: '一个基于VuePress的 知识管理&博客 主题',
-  // base: '/', // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件）
+  title: "静持大师", 
+  description: "静持大师的的知识库,静持大师,iOS开发,iOS,李乐强,vuepress", // 博客描述,利于SEO
+  keywords: "静持大师的的知识库,静持大师", // 关键字
+  base:"/vuepress-theme-vdoing-doc/", // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件）
   head: [ // 注入到页面<head> 中的标签，格式[tagName, { attrName: attrValue }, innerHTML?]
-    ['link', { rel: 'icon', href: '/img/favicon.ico' }], //favicons，资源放在public文件夹
-    ['meta', { name: 'keywords', content: 'vuepress,theme,blog,vdoing' }],
+    ['link', { rel: 'icon', href: 'https://i.postimg.cc/x1CHkn7B/avatar-02-24x.png' }], //favicons，资源放在public文件夹
+    ['meta', { name: 'keywords', content: '静持大师的的知识库,静持大师,iOS开发,iOS,李乐强,vuepress' }],
     ['meta', { name: 'theme-color', content: '#FFB6C1' }], // 移动浏览器主题颜色
 
     // ['meta', { name: 'wwads-cn-verify', content: '6c4b761a28b734fe93831e3fb400ce87' }], // 广告相关，你可以去掉
@@ -211,7 +212,7 @@ module.exports = {
   ],
 
   markdown: {
-    // lineNumbers: true,
+    lineNumbers: true,
     extractHeaders: ['h2', 'h3', 'h4', 'h5', 'h6'], // 提取标题到侧边栏的级别，默认['h2', 'h3']
   },
 
