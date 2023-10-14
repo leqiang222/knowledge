@@ -10,7 +10,7 @@ module.exports = {
   title: "静持大师", 
   description: "静持大师的的知识库,静持大师,iOS开发,iOS,李乐强,vuepress", // 博客描述,利于SEO
   keywords: "静持大师的的知识库,静持大师", // 关键字
-  base:"/vuepress-theme-vdoing-doc/", // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件）
+  base:"/knowledge/", // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件）
   head: [ // 注入到页面<head> 中的标签，格式[tagName, { attrName: attrValue }, innerHTML?]
     ['link', { rel: 'icon', href: 'https://i.postimg.cc/x1CHkn7B/avatar-02-24x.png' }], //favicons，资源放在public文件夹
     ['meta', { name: 'keywords', content: '静持大师的的知识库,静持大师,iOS开发,iOS,李乐强,vuepress' }],
