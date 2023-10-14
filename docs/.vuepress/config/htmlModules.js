@@ -1,3 +1,8 @@
+/*
+ * @Descripttion: 
+ * @Author: leqiang222
+ * @Date: 2023-10-14 11:12:48
+ */
 /** 插入自定义html模块 (可用于插入广告模块等)
  * {
  *   homeSidebarB: htmlString, 首页侧边栏底部
@@ -46,11 +51,11 @@ module.exports = {
   </style>
   `,
   // 赞助商广告
-  sidebarT: `
-  <a href="http://apifox.cn/a103xugaoyi" target="_blank">
-    <img src="https://cdn.staticaly.com/gh/xugaoyi/blog-gitalk-comment@master/img/431669861564_.2470ykdcpbds.jpg" alt="npm" class="no-zoom" style="width: 100%;border-radius: 2px;">
-    <p style="text-align: center;margin: 0;color: #999;font-size: 12px;">(进入注册为作者充电)</p>
-  </a>`,
+  // sidebarT: `
+  // <a href="http://apifox.cn/a103xugaoyi" target="_blank">
+  //   <img src="https://cdn.staticaly.com/gh/xugaoyi/blog-gitalk-comment@master/img/431669861564_.2470ykdcpbds.jpg" alt="npm" class="no-zoom" style="width: 100%;border-radius: 2px;">
+  //   <p style="text-align: center;margin: 0;color: #999;font-size: 12px;">(进入注册为作者充电)</p>
+  // </a>`,
 
 
   // windowRB: `
