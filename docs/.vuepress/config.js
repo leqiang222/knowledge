@@ -34,10 +34,10 @@ module.exports = {
         text: 'Java', link: '/pages/16b2ad/', items: []
       },
       {
-        text: 'IT', link: '/pages/7509f3/', items: []
+        text: 'IT', link: '/pages/dc3615/', items: []
       },
       {
-        text: 'Photo', link: '/pages/3506cc/', items: []
+        text: '其它', link: '/pages/3506cc/', items: []
       },
       {
         text: '指南', link: '/pages/a2f161/', items: [
