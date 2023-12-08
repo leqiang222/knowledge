@@ -19,45 +19,20 @@ features: # 可选的
 postList: none
 ---
 
- 
 <!-- <p align="center">
   <a href="https://www.npmjs.com/package/vuepress-theme-vdoing" target="_blank"><img src="https://img.shields.io/npm/v/vuepress-theme-vdoing" alt="npm" class="no-zoom"></a>
   <a href="https://www.npmjs.com/package/vuepress-theme-vdoing" target="_blank"><img src="https://img.shields.io/npm/dt/vuepress-theme-vdoing" alt="npm" class="no-zoom"></a>
   <a href="https://github.com/xugaoyi/vuepress-theme-vdoing" target="_blank"><img src='https://img.shields.io/github/stars/xugaoyi/vuepress-theme-vdoing' alt='GitHub stars' class="no-zoom"></a>
   <a href="https://github.com/xugaoyi/vuepress-theme-vdoing" target="_blank"><img src='https://img.shields.io/github/forks/xugaoyi/vuepress-theme-vdoing' alt='GitHub forks' class="no-zoom"></a>
 </p> -->
- 
+
 <!-- <p align="center" style="color: #999;">
   赞助商 (进入注册为主题作者充电)
 </p> -->
 <!-- <p align="center">
   <a href="http://apifox.cn/a103xugaoyi" target="_blank"><img src="https://cdn.staticaly.com/gh/xugaoyi/blog-gitalk-comment@master/img/441669861566_.2bedplbm21hc.jpg" alt="npm" class="no-zoom" style="width: 300px;border-radius: 2px;"></a>
-</p> -->
- 
-## ⚡ 反馈与交流
+</p> --> 
 
-在使用过程中有任何问题和想法，请给我提 [Issue](https://github.com/xugaoyi/vuepress-theme-vdoing/issues)。
-你也可以在Issue查看别人提的问题和给出解决方案。
-
-或者加入我们的交流群：
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://cdn.staticaly.com/gh/xugaoyi/blog-gitalk-comment@master/img/0.4pp7r95mdai0.jpeg" class="no-zoom" style="width:120px;margin: 10px;">
-        <p>vdoing微信群(添加我微信备注"进群")</p>
-      </td>
-      <td align="center" valign="middle">
-        <img :src="$withBase('/img/qrcode/qqq.webp')" alt="群号: 694387113" class="no-zoom" style="width:120px;margin: 10px;">
-        <p>vdoing QQ群: 694387113</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-<!-- AD -->
 <div class="wwads-cn wwads-horizontal page-wwads" data-id="136"></div>
 <style>
   .page-wwads{
