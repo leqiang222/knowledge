@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.MD",
+                "file": "docs/01.指南/01.指南/01.主题初衷与诞生.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01.主题初衷与诞生"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.MD",
+                "file": "docs/01.指南/01.指南/01.主题初衷与诞生.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "01.主题初衷与诞生 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.MD",
+                "file": "docs/01.指南/01.指南/01.主题初衷与诞生.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 的出链列表"
+              "title": "01.主题初衷与诞生 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.MD",
+                "file": "docs/01.指南/01.指南/01.主题初衷与诞生.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "01.主题初衷与诞生 的大纲"
             }
           }
         ],
@@ -171,6 +171,7 @@
   },
   "active": "ec3ad0d556a79ce3",
   "lastOpenFiles": [
+    "README.MD",
     "docs/07.iOS/06.动画.md",
     "docs/07.iOS/04.线程.md",
     "docs/07.iOS/03.内存.md",
@@ -209,7 +210,6 @@
     "node_modules/vuepress-plugin-one-click-copy/README.md",
     "node_modules/vuepress-plugin-fulltext-search/assets/search.svg",
     "node_modules/vuepress-plugin-fulltext-search/README.md",
-    "node_modules/vuepress-plugin-fulltext-search/CHANGELOG.md",
     "node_modules/zooming/assets/img/journey_start.jpg",
     "node_modules/zooming/assets/img/journey_thumbnail.jpg",
     "node_modules/zooming/assets/img/journey_start_thumbnail.jpg",
